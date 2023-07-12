@@ -3,5 +3,5 @@ aprendendo a usar os primeiros comandos comando
 Git status, Git add e afins
 agora estou aprendendo a subir os arquivos para o github 
 agora vamos testar outras mudanças aqui
-
+agora com o bloco de texto trackeado podemos mudar varias vezes
 
